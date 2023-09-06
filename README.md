@@ -11,7 +11,7 @@ Apache server(XAMPP)
 Installation and Setup
 Clone the repository to your local machine:
 Copy
-git clone https://github.com/your-username/todo-list-website.git
+git clone https://github.com/leoneldjatio/Todo-App.git
 Install dependencies using Composer. Make sure you have Composer installed. Run the following command in the project root directory:
 Copy
 composer install
